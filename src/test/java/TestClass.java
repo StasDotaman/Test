@@ -24,6 +24,41 @@ public class TestClass {
         driver.get("https://pn.com.ua/");
     }
 
+    @Test
+    public void pnTest7() {
+        driver.get("https://pn.com.ua/");
+    }
+
+    @Test
+    public void pnTest6() {
+        driver.get("https://pn.com.ua/");
+    }
+
+    @Test
+    public void pnTest1() {
+        driver.get("https://pn.com.ua/");
+    }
+
+    @Test
+    public void pnTest2() {
+        driver.get("https://pn.com.ua/");
+    }
+
+    @Test
+    public void pnTest3() {
+        driver.get("https://pn.com.ua/");
+    }
+
+    @Test
+    public void pnTest4() {
+        driver.get("https://pn.com.ua/");
+    }
+
+    @Test
+    public void pnTest5() {
+        driver.get("https://pn.com.ua/");
+    }
+
     @AfterMethod
     public void tearDown() {
         driver.quit();
